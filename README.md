@@ -1,2 +1,2 @@
 # mean
-mean-kbook
+mean-book
