@@ -20,6 +20,7 @@
   "homepage": "https://github.com/felipecardosodeoliveira/mean#readme",
   "dependencies": {
     "ejs": "^0.8.8",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express-load": "^1.1.16"
   }
 }
